@@ -36,8 +36,8 @@ github.com/docker/go-units v0.3.3/go.mod h1:fgPhTUdO+D/Jk86RDLlptpiXQzgHJF7gydDD
 github.com/docker/go-units v0.4.0/go.mod h1:fgPhTUdO+D/Jk86RDLlptpiXQzgHJF7gydDDbaIK4Dk=
 github.com/elastic/apm-perf v0.0.0-20250401034259-d70e4ce3a337 h1:S1KP6zNFZch0ju+ahrbuc0RUwoVCJ2CL6TMEKkQkR4Y=
 github.com/elastic/apm-perf v0.0.0-20250401034259-d70e4ce3a337/go.mod h1:sGP22Cs1SxUg7XOvVauYIposVFVJu97hF1UpG4yucPs=
-github.com/elastic/cloud-sdk-go v1.23.0 h1:IH41W2E+GIlHjuPtkNPbpYoACAJ8ffk3QiyDjUcrpgQ=
-github.com/elastic/cloud-sdk-go v1.23.0/go.mod h1:k0ZebhZKX22l6Ysl5Zbpc8VLF54hfwDtHppEEEVUJ04=
+github.com/elastic/cloud-sdk-go v1.25.0 h1:qvhuqxhhPY4fBm5lTCt6rWfM1xwJhZclvxKv0e0P594=
+github.com/elastic/cloud-sdk-go v1.25.0/go.mod h1:pvE/y2hboD2yGzpJnBc4ZhfazYJF/V2qdhXzXeU2hDs=
 github.com/elastic/elastic-transport-go/v8 v8.6.0 h1:Y2S/FBjx1LlCv5m6pWAF2kDJAHoSjSRSJCApolgfthA=
 github.com/elastic/elastic-transport-go/v8 v8.6.0/go.mod h1:YLHer5cj0csTzNFXoNQ8qhtGY1GTvSqPnKWKaqQE3Hk=
 github.com/elastic/go-elasticsearch/v8 v8.16.0 h1:f7bR+iBz8GTAVhwyFO3hm4ixsz2eMaEy0QroYnXV3jE=

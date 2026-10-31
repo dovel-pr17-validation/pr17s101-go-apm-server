@@ -5,7 +5,7 @@ go 1.26.10
 require (
 	github.com/dnaeon/go-vcr v1.2.0
 	github.com/elastic/apm-perf v0.0.0-20250401034259-d70e4ce3a337
-	github.com/elastic/cloud-sdk-go v1.23.0
+	github.com/elastic/cloud-sdk-go v1.25.0
 	github.com/elastic/go-elasticsearch/v8 v8.16.0
 	github.com/hashicorp/terraform-exec v0.21.0
 	github.com/stretchr/testify v1.10.0
