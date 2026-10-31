@@ -90,7 +90,7 @@ require (
 	github.com/eapache/go-xerial-snappy v0.0.0-20230731223053-c322873962e3 // indirect
 	github.com/eapache/queue v1.1.0 // indirect
 	github.com/ebitengine/purego v0.11.1 // indirect
-	github.com/elastic/apm-perf v0.0.0-20250207152505-1dbeb202ff22 // indirect
+	github.com/elastic/apm-perf v1.1.0 // indirect
 	github.com/elastic/apm-tools v0.0.0-20250124173757-336011228dbe // indirect
 	github.com/elastic/go-concert v0.3.1 // indirect
 	github.com/elastic/go-elasticsearch/v8 v8.19.7 // indirect

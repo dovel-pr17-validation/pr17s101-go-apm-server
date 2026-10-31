@@ -171,8 +171,8 @@ github.com/elastic/apm-aggregation v1.5.1 h1:PBXwhSrSPsg2JR5C7Zrq+jSSfZ5CVuu72Xp
 github.com/elastic/apm-aggregation v1.5.1/go.mod h1:8D/GafHCcd16SlfFgxwHfIU4EVhjNpDDqFMA/alE21o=
 github.com/elastic/apm-data v1.22.2 h1:Q0WaIDScK8hvcI3vzwtOi1LtaVKcaHtNDRiH2xFf+tk=
 github.com/elastic/apm-data v1.22.2/go.mod h1:7aC1alvZtKrq02N7JG/sff6rAicmQ1Qt/n4qCb+7fAg=
-github.com/elastic/apm-perf v0.0.0-20250207152505-1dbeb202ff22 h1:br+XeQOcxNFSv+HzO3jC0bjIBgG6FJeBn7oXQFQvKtM=
-github.com/elastic/apm-perf v0.0.0-20250207152505-1dbeb202ff22/go.mod h1:gE+FV7xXv0/nBenviCvpvnvTpUkjJXtuOWs2UT+ZRtw=
+github.com/elastic/apm-perf v1.1.0 h1:iTlgsLms463p6Jj2D0JuZOEPvYPQgJUk6VoRMCcA/wg=
+github.com/elastic/apm-perf v1.1.0/go.mod h1:ftcKez6E7D8tHXbW7RXNA+krm/odHgeV6o2p8gWdJ54=
 github.com/elastic/apm-tools v0.0.0-20250124173757-336011228dbe h1:LDtn/A8Tsfz8DQlbXtmDud9ha9oOGriwJGB7V0Ozik8=
 github.com/elastic/apm-tools v0.0.0-20250124173757-336011228dbe/go.mod h1:SIlGcpTnnosxZ3OvoRC7ADxhHdlsu/nwUdVMF9OkgYc=
 github.com/elastic/beats/v7 v7.0.0-alpha2.0.20261020133521-8e42ed4a20b6 h1:URtOHWXFeD5CkGM+YhCy6AzEjfSrghz12+QOPrwDLq4=
